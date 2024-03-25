@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(122, 60, 180);
+    padding: 32px;
+    margin-right: 24px;
+}
+
+h1{
+    color: rgb(235, 195, 228);
+    padding-left: 38px;
+}
+
+a {
+    color: rgb(235, 195, 228);
+    margin-left: 24px;
+    display: inline;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    float: right;
+}
+
+section .article {
+    max-width: 1280px;
+    display: inline-flex;
+    padding: 28px;
+    margin-right: 28px;
+    border
+}
+
+section h3{
+    color: red;
+    align-items:center;
+}
+
+.brands-list img {
+    height: 24px;
+}
