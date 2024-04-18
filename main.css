@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(243, 230, 44);
+    display: flex;
+} 
+
+h1 {
+    color: green;
+    margin-left: 68px;
+    margin-top: 32px;
+}
+
+a {
+    color: green;
+    text-align: right;
+}
+
+article {
+    justify-content: center;
+}
+
+section .container {
+    align-items: center;
+}
